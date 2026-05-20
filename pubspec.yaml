@@ -2,7 +2,7 @@ name: gem_ui
 description: >
   GEM design system — reusable, app-versionable UI components for chat and
   social applications. One import, one theme call, zero config.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/NgoTaiCo/gem_ui
 
 environment:
