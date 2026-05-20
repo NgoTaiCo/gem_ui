@@ -1,0 +1,24 @@
+name: gem_ui_example
+description: GEM UI component catalog / widgetbook
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  gem_ui:
+    path: ../
+  flutter_screenutil: ^5.7.0
+  lucide_icons_flutter: ^3.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
